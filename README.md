@@ -76,24 +76,6 @@ MedAI/
 ✅ Doctor consultation warnings for persistent or severe symptoms
 
 
-
-🧪 Setup Instructions
-
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-
-npm install
-
-OPENROUTER_API_KEY=your_api_key_here
-
-node server.js
-
-http://localhost:5001
-
-Open landing.html or mediBot.html in your browser.
-
-
-
 📌 Example Use Cases
 
 General symptom guidance (fever, cough, headache, stomach discomfort)
